@@ -1,4 +1,3 @@
-<img src="https://github.com/sam-cross/sam-cross/blob/master/HeaderImg.png?raw=true" alt="Sam Cross Digital header" />
 [![I'm Paul, a .Net Senior Software Developer 👋](https://github.com/daonhan/daonhan/blob/master/HeaderImg.png?raw=true)](https://linkedin.com/in/daonhan)
 # I'm Paul, a .Net Senior Software Developer 👋
 
