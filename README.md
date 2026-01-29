@@ -1,20 +1,5 @@
-[![I'm Paul, a .Net Senior Software Developer 👋](https://github.com/daonhan/daonhan/blob/master/HeaderImg.png?raw=true)](https://linkedin.com/in/daonhan)
-# I'm Paul, a .Net Senior Software Developer 👋
-
-## PROFILE
-- **17+ years experience in full-stack web development focusing on .NET C#**
-- **7+ years’ experience in Full Stack JavaScript Developer: Strong experience in Angular, React and NodeJs**
-- **Strong experience in analysis, design, development, and implementation of web applications using .Net C#, SQL, JavaScript, HTML and CSS**
-
-## SKILLS
-- **Programming languages**: C#/LINQ/SQL/JavaScript/TypeScript/HTML/CSS
-- **Framework**: .NET/.NET Core C#, Dapper, Entity Framework, Angular, React/React-Native, NodeJS, ExpressJS, RxJs, JQuery, KnockoutJs, SCSS/SASS, Bootstrap, Material-UI, Tailwind-UI, IdentityServer, UNit
-- **Cloud:** MS Azure - I got the AZ-204 Certificate.
-- Design Patterns/Principles/Architectures: Microservice; SOLID principles, DDD principles; TDD; Strategy, Singleton, Bridge, State, Specification Pattern, Data Access Patterns, Template Method; Builder, Factory and Abstract Factory; Decorator, Composite, Adapter, Proxy; DI/IoC, UoW, OOP.
-- **Message Broker:** Azure Service Bus, RabbitMQ.
-- **Database**: MSSQL, MongoDB, PostgreSQL; Redis, Elasticsearch, Solr, Memcached
-- **Tools**: Visual Studio, Visual Studio Code, Git/GitHub, SVN, Docker, Webpack, Gulp, IIS, NGINX, Postman, Chrome DevTools, Shell/Bash, XCode, Android Studio
-- **OS**: Windows, Mac, Linux
+# PAUL NHAN NGUYEN DAO
+**Senior Software Engineer | Technical Lead**
 
 <p align="center">
   <a href="https://linkedin.com/in/daonhan"><img alt="LinkedIn" src="https://img.shields.io/badge/🤝-LinkedIn-blue" /></a>
@@ -22,65 +7,85 @@
   <a href="https://twitter.com/daonhan"><img alt="Twitter" src="https://img.shields.io/badge/🐥-Twitter-lightblue" /></a>
 </p>
 
---------------
+📍 Ho Chi Minh City, Vietnam
 
-## Professional Experience
+---
 
-### Cloud API Adapters – Core Cloud Platform (Mar 2023 – Present)
+## PROFESSIONAL SUMMARY
+Senior Software Engineer with **20+ years** architecting enterprise solutions and leading development teams. Expert in **.NET ecosystem**, **cloud-native applications**, and **microservices architecture**. Proven track record delivering scalable systems processing millions of daily transactions. **Azure AZ-204 Certified**.
 
-**Focus Areas:**
+---
 
-* Self-Service Driven
-    * User-centric design for employees & customers.
-    * Simplified access to functionalities.
-* Proven Technologies and Best Practices
-    * Alignment with company values and mission.
-    * Azure-native services prioritization
-    * Cost-conscious design.
-    * Microservices development.
-* Security & Privacy by Design
-    * Modern security & privacy standards adherence.
-    * Customer protection from threats.
-* Scalable, Reliable, and Continuously Available
-    * Demand-based system scaling.
-    * Multi-region environments with replication.
+## TECHNICAL EXPERTISE
+**Languages:** C# (.NET 6+), TypeScript, JavaScript (ES6+), SQL, GraphQL  
+**Frameworks:** ASP.NET Core, Angular 9+, React/React Native, ADO.Net, Entity Framework, Dapper  
+**Cloud & DevOps:** Azure (AZ-204 Certified), Docker, Kubernetes, Azure DevOps, CI/CD  
+**Architecture:** Microservices, Event-Driven, SOLID, DDD, RESTful APIs  
+**Databases:** CosmosDB, SQL Server, PostgreSQL, MongoDB, Redis  
 
-**Key Deliverables:**
+---
 
-* API Adapters
-    * API connectivity management.
-    * API-based integrations for channels, marketplaces, and cloud ERP
+## PROFESSIONAL EXPERIENCE
 
-* Adapters Integrated: Channel Advisor, Wayfair, WooCommerce, Magento, and others.
+### **TrueCommerce** | Senior Software Engineer - Team Lead
+*August 2020 – January 2026 | Ho Chi Minh City,Vietnam*
 
-### TrueCommerce Home/ecUtopia - Beyond EDI (Oct 2022 – Present)
+**TrueCommerce Home (ecUtopia)** *(July 2024 – January 2026)*
+- Lead Vietnam team (3 members) maintaining EDI portals and processes
+- Implemented key features: Label Management with audit trails, Dynamic Cross Reference tables
+- Architected **WCF Chunked Upload** system with asynchronous processing for large file handling
+- **Tech:** .NET, ASP.NET Web Forms, ADO.Net, SQL Server, jQuery
 
-**Focus Areas:**
+**Cloud API Adapters Platform** *(March 2023 – June 2024)*
+- Architected microservices platform handling **1M+ daily transactions**
+- Built self-service API management portal using .NET 6 and Azure-native services
+- Integrated 15+ platforms (Channel Advisor, Wayfair, WooCommerce, Magento, e.g)
+- Reduced deployment time by **70%** through standardization
+- **Tech:** .NET 6, CosmosDB, Azure Service Bus, Docker/AKS, GraphQL, Polly, Application Insights
 
-* Furniture & Home Goods Industry.
-* ecUtopia Portals (Web-based)
-    * Admin Portal (includes Billing).
-    * Customer Portal
+**Universal Adapter Platform** *(August 2020 – March 2023)*
+- Developed enterprise integration platform supporting 100+ API connections
+- Built Angular 9+ frontend with performance optimizations (lazy loading, tree-shaking)
+- Implemented OAuth 2.0 with multiple grant types and circuit breaker patterns
+- **Tech:** Angular 9, .NET Framework 4.7.2, Redis, RabbitMQ, Azure Service Bus
 
-**Challenges:**
+### **Mua&Bán** | Senior Software Developer
+*June 2015 – June 2020 | Ho Chi Minh City*
 
-* Streamlining numerous Window Service applications for EDI.
+**muaban.net - Vietnam's Largest Classified Platform**
+- Designed REST APIs serving **3M+ daily requests**
+- Built React Native app reaching **500K+ users**
+- Optimized database performance, reducing response time by **60%**
+- **Tech:** .NET Core, React Native, PostgreSQL, Redis, Solr
 
-### Universal Adapter Platform (Aug 2020 – Oct 2022)
+**BNetApp B2B Platform**
+- Architected Angular SPA with PWA capabilities
+- Implemented real-time dashboards processing 100K+ daily transactions
+- Achieved **99.9% uptime** using NGINX/Cloudflare
 
-**Project Description:** Build, Deploy, and Manage Unlimited APIs and EDI Integrations. 
+### **LawSoft** | Senior .NET Developer
+*2007 – 2015 | Ho Chi Minh City*
 
-<!--
-**daonhan/daonhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Led development of **thuvienphapluat.vn** (Vietnam's largest legal database)
+- Built real-time collaboration platform using SignalR
+- Managed 5-person development team
 
-Here are some ideas to get you started:
+### **TD&T TanDuc** | Junior Web Developer
+*2003 – 2007 | Ho Chi Minh City*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developed web applications for travel and education sectors using .NET and PHP
+
+---
+
+## KEY ACHIEVEMENTS
+- 🏆 **Azure AZ-204 Certified** Developer Associate (2022)
+- 📈 Scaled applications from startup to enterprise (1K to 3M+ daily users)
+- 🚀 Led successful monolith-to-microservices migrations
+- 💡 Reduced infrastructure costs by **35%** through optimization
+
+---
+
+## EDUCATION
+**B.S. Information Technology** | Dalat University, Vietnam (1997-2003)
+
+**Certification:** [Microsoft Azure Developer Associate (AZ-204)](https://www.credly.com/badges/4ca310c5-0be1-4e58-a4fa-e6c399b18cdb)
